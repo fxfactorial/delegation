@@ -17,7 +17,7 @@
     "@harmony-js/core": "^0.1.36",
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
